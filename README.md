@@ -6,7 +6,7 @@
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone 
+   git clone https://github.com/mag7231/YOLO11_CrowdDetection.git
    ```
 2. Установите зависимости:
    ```bash
